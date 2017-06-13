@@ -10,4 +10,6 @@ public class Demo {
     public int total(int first,int second){
         return first + second;
     }
+
+
 }
